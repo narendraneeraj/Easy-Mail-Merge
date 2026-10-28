@@ -259,6 +259,5 @@ permalink: /terms-of-service
   <p><strong>Contact Page:</strong> <a href="/contact">Contact Us</a></p>
 </div>
 
-<p class="text-center text-muted small mt-5">© 2026 EasyCalculator.org. All rights reserved.</p>
 
 </div>

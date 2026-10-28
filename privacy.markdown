@@ -190,4 +190,3 @@ permalink: /privacy-policy
 <p>For questions, privacy requests, or concerns about Easy Mail Merge, contact:</p>
 <p><strong>Developer:</strong> EasyCalculator.org<br /><strong>Service:</strong> Easy Mail Merge<br /><strong>Email:</strong> <a href="mailto:care@easycalculator.org">care@easycalculator.org</a><br /><strong>Website:</strong> <a href="https://mailmerge.easycalculator.org/">https://mailmerge.easycalculator.org</a></p>
 <div><hr /></div>
-<p>&copy; 2026 EasyCalculator.org. All rights reserved.</p>
