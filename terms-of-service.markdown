@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Terms of Service | Easy Mail Merge – Gmail Mail Merge"
